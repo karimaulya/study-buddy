@@ -18,7 +18,7 @@ Aplikasi ini menggunakan teknologi **Large Language Model (LLM)** dari Google un
 ### ✨ Fitur Utama
 * 🧠 **Smart Explainer:** Bisa menjelaskan definisi, konsep, atau codingan.
 * 🗣️ **Friendly Tone:** Gaya bahasa santai (bisa di-custom prompt-nya) agar tidak kaku seperti buku teks.
-* ⚡ **Fast Response:** Didukung oleh model `Gemini-1.5-Flash` yang cepat dan ringan.
+* ⚡ **Fast Response:** Didukung oleh model `Gemini-2.5-Flash` yang cepat dan ringan.
 
 ---
 
