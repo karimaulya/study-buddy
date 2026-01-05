@@ -3,7 +3,7 @@ import google.generativeai as genai
 
 try:
   GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
-exept: 
+except: 
   st.error("Google API Key not found. Please set it in Streamlit secrets.")
   st.stop()
 
